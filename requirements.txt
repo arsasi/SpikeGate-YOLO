@@ -1,0 +1,9 @@
+torch>=2.2.2
+spikingjelly>=0.0.0.0.12
+numpy
+opencv-python
+pyyaml
+tqdm
+matplotlib
+scipy
+thop
