@@ -43,4 +43,4 @@ We will provide pretrained weights for both **COCO 2017** and **Gen1** datasets.
 ### Training
 ```bash
 # Example command (Placeholder)
-python train.py --cfg configs/spikegate_yolo_gen1.yaml --batch-size 32
+python train.py
