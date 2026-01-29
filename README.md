@@ -1,6 +1,6 @@
 # SpikeGate-YOLO
 
-**SpikeGate-YOLO: An Energy-Efficient Spiking Neural Network for Object Detection with Dynamic Pruning**
+**SpikeGate-YOLO: Spiking Object Detection with Dynamic Gating and Multi-Granularity Fusion**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)]()
