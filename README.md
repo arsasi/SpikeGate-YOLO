@@ -50,7 +50,6 @@ Performance comparison with varying model sizes and time steps ($T$).
 | **SpikeGate-YOLO-L** | **31.6** | **4** | 14.1 | **69.3%** | **42.9%** | *Coming Soon* |
 
 ### 2. COCO 2017 Dataset
-Comparison with state-of-the-art SNNs.
 
 | Model | Params (M) | T | mAP@50 | mAP50:95 | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: |
