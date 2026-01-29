@@ -63,6 +63,6 @@ Performance comparison with varying model sizes and time steps ($T$).
 # Example command
 python train.py
 
-Inference
+### Inference
 # Example command 
 python test.py 
