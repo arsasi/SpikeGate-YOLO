@@ -25,9 +25,8 @@ The code is built on PyTorch and SpikingJelly. Detailed installation instruction
 
 **Prerequisites (Expected):**
 - Python >= 3.8
-- PyTorch >= 1.12
+- PyTorch >= 2.2.2
 - SpikingJelly
-- CUDA Toolkit
 
 ## 📊 Model Zoo & Results
 
