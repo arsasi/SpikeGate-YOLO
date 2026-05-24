@@ -54,7 +54,7 @@ Performance comparison with varying model sizes and time steps ($T$).
 | Model | Params (M) | T | mAP@50 | mAP50:95 |
 | :---: | :---: | :---: | :---: | :---: |
 | SpikeGate-YOLO-S | 18.2 | 1 | 60.8% | 44.2% |
-| SpikeGate-YOLO-L | 31.7 | 1 | **63.4%** | 46.3%** |
+| SpikeGate-YOLO-L | 31.7 | 1 | **63.4%** | **46.3%** |
 
 ## 🛠️ Usage
 
